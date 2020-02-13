@@ -1,0 +1,218 @@
+h1 {
+    text-align: center;
+    border-style: solid;
+    border-radius: 15px;
+    border: rgb(3, 3, 146);
+}
+
+.photo {
+    margin: auto;
+    display: block;
+    margin-right: auto;
+    background-color: brown;
+}
+
+.photocv {
+    width: 50%;
+    border: blue;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+}
+
+.noms {
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Courgette', cursive;
+}
+
+.photocv img {
+    border-radius: 100% 100%;
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 30%;
+}
+
+.adresse {
+    margin-bottom: 0;
+    text-indent: 1.5em;
+    margin-top: 0;
+}
+
+html {
+    background-color: darkgray;
+}
+
+div.adresse {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.h {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Contact {
+    text-align: center;
+    left: 5px;
+    font-family: 'Noto Sans KR', sans-serif;
+    border-radius: 5px;
+    background-image: linear-gradient(lightblue 0%, pink 100%), linear-gradient(to right, pink 30%, white 100%), url("https://c7.staticflickr…");
+    … background-blend-mode: hue;
+}
+
+
+}
+.autresF h3 {
+    text-align: center;
+}
+.facebook {
+    margin: 10px;
+    padding: 3px;
+    border-radius: 90px;
+    width: 50px;
+    height: 50px;
+}
+.gmail {
+    margin: 10px;
+    padding: 3px;
+    border-radius: 90px;
+    width: 50px;
+    height: 50px;
+}
+.instagrame {
+    margin: 10px;
+    padding: 3px;
+    border-radius: 90px;
+    width: 50px;
+    height: 50px;
+}
+.twitter {
+    margin: 10px;
+    padding: 3px;
+    border-radius: 90px;
+    width: 50px;
+    height: 50px;
+}
+.linkedin {
+    margin: 10px;
+    padding: 3px;
+    border-radius: 90px;
+    width: 50px;
+    height: 50px;
+}
+.langue {
+    text-align: center;
+    font-family: 'Chewy', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Michroma', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Sriracha', cursive;
+}
+.experience {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Chewy', cursive;
+    font-family: 'Michroma', sans-serif;
+    vertical-align: top;
+}
+.acd {
+    text-align: center;
+    font-family: 'Chewy', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Michroma', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Sriracha', cursive;
+}
+.etd {
+    text-align: center;
+}
+.sec {
+    text-align: center;
+    font-family: 'Chewy', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Michroma', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Sriracha', cursive;
+}
+.Prim {
+    text-align: center;
+    font-family: 'Chewy', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Michroma', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Sriracha', cursive;
+}
+.autres {
+    text-align: center;
+}
+.autresF {
+    text-align: center;
+    font-family: 'Chewy', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Michroma', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Sriracha', cursive;
+}
+.parent {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.exp {
+    text-align: center;
+}
+.experience {
+    font-family: 'Chewy', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Michroma', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Sriracha', cursive;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+}
+.prof {
+    text-align: center;
+}
+.certification {
+    text-align: center;
+    font-family: 'Chewy', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Michroma', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Sriracha', cursive;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Zilla Slab', serif;
+    font-family: 'Caveat', cursive;
+}
+.experience {
+    text-align: center;
+    font-family: 'Chewy', cursive;
+    font-family: 'Courgette', cursive;
+    font-family: 'Michroma', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Sriracha', cursive;
+}
+@media screen and (max-width: 1280px) {}
